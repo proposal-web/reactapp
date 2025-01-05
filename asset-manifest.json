@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/proposal-web/reactapp/static/css/main.f940d270.css",
-    "main.js": "/proposal-web/reactapp/static/js/main.6c4a0c16.js",
-    "static/js/488.652aae41.chunk.js": "/proposal-web/reactapp/static/js/488.652aae41.chunk.js",
-    "static/media/logo.png": "/proposal-web/reactapp/static/media/logo.782ef258c00400792f5e.png",
-    "static/media/mainlogoips.png": "/proposal-web/reactapp/static/media/mainlogoips.1e945e1567712ae4e489.png",
-    "static/media/slider1.jpg": "/proposal-web/reactapp/static/media/slider1.963e073a8a77e9eee81b.jpg",
-    "static/media/slider2.jpg": "/proposal-web/reactapp/static/media/slider2.61d2f48dc5750174a7cb.jpg",
-    "index.html": "/proposal-web/reactapp/index.html",
-    "main.f940d270.css.map": "/proposal-web/reactapp/static/css/main.f940d270.css.map",
-    "main.6c4a0c16.js.map": "/proposal-web/reactapp/static/js/main.6c4a0c16.js.map",
-    "488.652aae41.chunk.js.map": "/proposal-web/reactapp/static/js/488.652aae41.chunk.js.map"
+    "main.css": "/reactapp/static/css/main.f940d270.css",
+    "main.js": "/reactapp/static/js/main.c0c99b43.js",
+    "static/js/488.652aae41.chunk.js": "/reactapp/static/js/488.652aae41.chunk.js",
+    "static/media/logo.png": "/reactapp/static/media/logo.782ef258c00400792f5e.png",
+    "static/media/mainlogoips.png": "/reactapp/static/media/mainlogoips.1e945e1567712ae4e489.png",
+    "static/media/slider1.jpg": "/reactapp/static/media/slider1.963e073a8a77e9eee81b.jpg",
+    "static/media/slider2.jpg": "/reactapp/static/media/slider2.61d2f48dc5750174a7cb.jpg",
+    "index.html": "/reactapp/index.html",
+    "main.f940d270.css.map": "/reactapp/static/css/main.f940d270.css.map",
+    "main.c0c99b43.js.map": "/reactapp/static/js/main.c0c99b43.js.map",
+    "488.652aae41.chunk.js.map": "/reactapp/static/js/488.652aae41.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f940d270.css",
-    "static/js/main.6c4a0c16.js"
+    "static/js/main.c0c99b43.js"
   ]
 }
