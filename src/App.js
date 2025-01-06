@@ -14,7 +14,7 @@ const App = () => {
     <Router>
       <Header/>
       <Routes>
-        <Route path="/" element={<Logo />} />
+        <Route path="/reactapp" element={<Logo />} />
         <Route path="/gallery" element={<Gallery />} />
         <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<SignUp />} />
